@@ -1,0 +1,5 @@
+variable "environment" {
+
+  default = "dev"
+
+}
